@@ -1,1 +1,1 @@
-# Mouse-click-Project
+# Mouse accuracy tester using pygame
